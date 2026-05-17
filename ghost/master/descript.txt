@@ -6,5 +6,7 @@ kero.name,none
 
 craftman,tukinami seika
 craftmanw,月波 清火
+craftmanurl,https://github.com/tukinami/doll_at_the_bay_window
+homeurl,https://raw.githubusercontent.com/tukinami/doll_at_the_bay_window/main/
 
 shiori,aosora.dll
