@@ -1,7 +1,7 @@
 charset,UTF-8
 file,ghost/master/aosora.dllec61a1987e0cfd5add116bc2a2e28903size=1105408date=2012-12-21T00:00:00
 file,ghost/master/bootend.asd361a0dac88def91a825220b98dc396fsize=244date=2012-12-21T00:00:00
-file,ghost/master/descript.txt8d8b3abed7d8998cbf7bb009335dbab2size=173date=2012-12-21T00:00:00
+file,ghost/master/descript.txtc1f2439f582afd301a2558dfd47fab72size=318date=2012-12-21T00:00:00
 file,ghost/master/ghost.asprojec2309c240fa356e63ed3bf885ff685esize=49date=2012-12-21T00:00:00
 file,ghost/master/icon.ico487bab85ada256d456ec20deddb75d17size=4286date=2012-12-21T00:00:00
 file,ghost/master/license.txtb2125a4e3baba58fa07f66b9dc70fb37size=479date=2012-12-21T00:00:00
