@@ -1,0 +1,10 @@
+charset,UTF-8
+type,ghost
+name,追想の窓辺
+sakura.name,スマルティーナ
+kero.name,none
+
+craftman,tukinami seika
+craftmanw,月波 清火
+
+shiori,aosora.dll

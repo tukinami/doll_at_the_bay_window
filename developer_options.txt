@@ -1,0 +1,5 @@
+ghost/master/savedata.asv,nonar,noupdate
+ghost/master/debug.asproj,nonar,noupdate
+ghost/master/test.as,nonar,noupdate
+
+developer_options.txt,nonar,noupdate

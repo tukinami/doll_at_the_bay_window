@@ -1,0 +1,4 @@
+charset,UTF-8
+type,ghost
+name,追想の窓辺
+directory,doll_at_the_bay_window
